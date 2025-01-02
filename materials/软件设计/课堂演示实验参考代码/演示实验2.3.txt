@@ -1,0 +1,21 @@
+int main(void)
+{
+// stop watchdog timer
+WDTCTL = WDTPW | WDTHOLD;
+ 
+// 选择时钟ACLK, 清除 TAR，增计数
+TA0CTL = TASSEL_1 + TACLR + MC0;   
+
+TA0CCR0 = 32768;   // PWM周期
+
+TA0CCTL1 = OUTMOD_7 ;// 输出模式7
+TA0CCR1 = 29491;  //占空比90%
+
+TA0CCTL2 = OUTMOD_7; // 输出模式7;
+TA0CCR2 = 3277;  //占空比10%
+
+P1DIR |= BIT2;    // P1.2 方向为输出
+P1SEL |= BIT2;   // P1.2端口为外设，定时器TA0.1
+P1DIR |= BIT3;    // P1.3 方向为输出
+P1SEL |= BIT3;   // P1.3端口为外设，定时器TA0.2
+}
