@@ -1,0 +1,41 @@
+int main(void)
+{
+	WDTCTL = WDTPW | WDTHOLD;	// stop watchdog timer
+	P8DIR|=BIT1;  //p8.1 output
+	P8OUT&=~BIT1;
+
+	P1DIR&=~BIT2;  //p1.2 input,pull up
+	P1REN|=BIT2;
+	P1OUT|=BIT2;
+
+	P1IE|=BIT2; //enable P1.2 interrupt
+	P1IES|=BIT2; //high-low transition
+                P1IFG&=~BIT2;
+
+	_enable_interrupt();
+
+	return 0;
+}
+
+#pragma vector=PORT1_VECTOR
+__interrupt void Port_1(void)
+{
+        if(P1IFG&BIT2){
+               P8OUT^=BIT1;
+               P1IFG&=~BIT2;
+        }
+
+        if(P1IFG&BIT3){
+               ；//？
+               ；//？
+        }
+}
+
+
+//如果有P2的中断，则需要在main函数中进行中断相关初始化，同时配一个P2的中断服务函数
+//
+//#pragma vector=PORT2_VECTOR
+//__interrupt void Port_2(void)
+//{
+//
+//}
