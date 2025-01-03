@@ -15,13 +15,13 @@
 ![成绩构成(23级)](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90(23级)-gold)
 ![实验100%](https://img.shields.io/badge/%E5%AE%9E%E9%AA%8C-100%25-wheat)
 
-![元器件识别和检测5%](https://img.shields.io/badge/元器件识别和检测-5%25-wheat)
-![电子封装5%](https://img.shields.io/badge/电子封装-5%25-wheat)
+![元器件识别7%](https://img.shields.io/badge/元器件识别-7%25-wheat)
+![电子封装7%](https://img.shields.io/badge/电子封装-7%25-wheat)
 ![电子可靠性5%](https://img.shields.io/badge/电子可靠性-5%25-wheat)
-![硬件设计10%](https://img.shields.io/badge/硬件设计-10%25-wheat)
-![PCB设计10%](https://img.shields.io/badge/PCB设计-10%25-wheat)
-![软件设计25%](https://img.shields.io/badge/软件设计-25%25-wheat)
-![焊接调试10%](https://img.shields.io/badge/焊接调试-10%25-wheat)
+![硬件设计11%](https://img.shields.io/badge/硬件设计-11%25-wheat)
+![PCB设计11%](https://img.shields.io/badge/PCB设计-11%25-wheat)
+![软件设计18%](https://img.shields.io/badge/软件设计-18%25-wheat)
+![焊接调试11%](https://img.shields.io/badge/焊接调试-11%25-wheat)
 ![项目制作30%](https://img.shields.io/badge/项目制作-30%25-wheat)
 
 ## 授课教师
@@ -38,7 +38,7 @@
 - 绪论（6学时）
   - 三次在 G707 开的讲座，介绍电子工艺实习的重要性和工程训练的重要性
   > 主要介绍现代工业的发展，和实验内容关系不大（
-- 元器件识别和检测（4学时）
+- 元器件识别（4学时）
   - 识别常见的电阻、电容、电感、二极管、三极管和集成芯片元件，利用万用表、LCR 测试仪和晶体管特性图示仪筛选元件电气性能。
   > 简单，课后绘制电容的频率特性曲线和三极管输出特性曲线
 - 电子封装（4学时）
