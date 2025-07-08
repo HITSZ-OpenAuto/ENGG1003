@@ -1,0 +1,337 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 1418,
+    "time": 1751969864,
+    "hash": "17e7ab5e10a0bcf0c746dc77fbd579b4867da38c"
+  },
+  ".hoa/worktree.json": {
+    "size": 7063,
+    "time": 1751908296,
+    "hash": "154bf2c445b0c73ad41e5528bd7f90e76d82f83e"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1734673341,
+    "hash": "def53be3fbab2130c49341d8578a130140d6a480"
+  },
+  "README.md": {
+    "size": 6686,
+    "time": 1739514703,
+    "hash": "7ba455cfa7456318d14cd35edf00f7aad9989ee1"
+  },
+  "assignments/.gitkeep": {
+    "size": 0,
+    "time": 1739514703,
+    "hash": "7ba455cfa7456318d14cd35edf00f7aad9989ee1"
+  },
+  "exams/.gitkeep": {
+    "size": 0,
+    "time": 1739514703,
+    "hash": "7ba455cfa7456318d14cd35edf00f7aad9989ee1"
+  },
+  "labs/.gitkeep": {
+    "size": 0,
+    "time": 1739514703,
+    "hash": "7ba455cfa7456318d14cd35edf00f7aad9989ee1"
+  },
+  "labs/2025_PSP/README.md": {
+    "size": 99,
+    "time": 1751967622,
+    "hash": "8acf2679b7668b368f43b2900de2b326d7633ac2"
+  },
+  "labs/2025_PSP/硬件设计/PCB/DXF_10050_4xM3.dxf": {
+    "size": 193652,
+    "time": 1751967622,
+    "hash": "8acf2679b7668b368f43b2900de2b326d7633ac2"
+  },
+  "labs/2025_PSP/硬件设计/PCB/Gerber_PCB1_2025-04-12.zip": {
+    "size": 120736,
+    "time": 1751967622,
+    "hash": "8acf2679b7668b368f43b2900de2b326d7633ac2"
+  },
+  "labs/2025_PSP/硬件设计/PCB/My_design_2025-04-12.epro": {
+    "size": 183484,
+    "time": 1751967622,
+    "hash": "8acf2679b7668b368f43b2900de2b326d7633ac2"
+  },
+  "labs/2025_PSP/硬件设计/PCB/PCBchecklist.xlsx": {
+    "size": 13423,
+    "time": 1751967622,
+    "hash": "8acf2679b7668b368f43b2900de2b326d7633ac2"
+  },
+  "labs/2025_PSP/硬件设计/PCB/PCB设计2025.pdf": {
+    "size": 3640771,
+    "time": 1751967622,
+    "hash": "8acf2679b7668b368f43b2900de2b326d7633ac2"
+  },
+  "labs/2025_PSP/硬件设计/PCB/PCB设计操作说明.pdf": {
+    "size": 1325189,
+    "time": 1751967622,
+    "hash": "8acf2679b7668b368f43b2900de2b326d7633ac2"
+  },
+  "labs/2025_PSP/硬件设计/焊接调试/小怪兽温度报警器测试报告-22-psp.docx": {
+    "size": 19029093,
+    "time": 1751967622,
+    "hash": "8acf2679b7668b368f43b2900de2b326d7633ac2"
+  },
+  "labs/2025_PSP/硬件设计/电子元器件识别与检测/三极管的输出特性曲线.pdf": {
+    "size": 83452,
+    "time": 1751967622,
+    "hash": "8acf2679b7668b368f43b2900de2b326d7633ac2"
+  },
+  "labs/2025_PSP/硬件设计/电子元器件识别与检测/电解电容的频率特性.xlsx": {
+    "size": 19673,
+    "time": 1751967622,
+    "hash": "8acf2679b7668b368f43b2900de2b326d7633ac2"
+  },
+  "labs/2025_PSP/硬件设计/电子元器件识别与检测/结果曲线.pdf": {
+    "size": 208289,
+    "time": 1751967622,
+    "hash": "8acf2679b7668b368f43b2900de2b326d7633ac2"
+  },
+  "labs/2025_PSP/硬件设计/电子元器件识别与检测/薄膜电容的频率特性.xlsx": {
+    "size": 18793,
+    "time": 1751967622,
+    "hash": "8acf2679b7668b368f43b2900de2b326d7633ac2"
+  },
+  "labs/2025_PSP/硬件设计/硬件设计/BOM_2025-03-29.xlsx": {
+    "size": 9640,
+    "time": 1751967622,
+    "hash": "8acf2679b7668b368f43b2900de2b326d7633ac2"
+  },
+  "labs/2025_PSP/硬件设计/硬件设计/MyProject_2025-03-29.epro": {
+    "size": 129902,
+    "time": 1751967622,
+    "hash": "8acf2679b7668b368f43b2900de2b326d7633ac2"
+  },
+  "labs/2025_PSP/硬件设计/硬件设计/仿真图checklist-22-psp.xlsx": {
+    "size": 13174,
+    "time": 1751967622,
+    "hash": "8acf2679b7668b368f43b2900de2b326d7633ac2"
+  },
+  "labs/2025_PSP/硬件设计/硬件设计/原理图checklist.xlsx": {
+    "size": 13937,
+    "time": 1751967622,
+    "hash": "8acf2679b7668b368f43b2900de2b326d7633ac2"
+  },
+  "labs/2025_PSP/硬件设计/硬件设计/硬件2实验结果.docx": {
+    "size": 248935,
+    "time": 1751967622,
+    "hash": "8acf2679b7668b368f43b2900de2b326d7633ac2"
+  },
+  "labs/2025_PSP/硬件设计/硬件设计/硬件设计实验报告V4.0.docx": {
+    "size": 53067,
+    "time": 1751967622,
+    "hash": "8acf2679b7668b368f43b2900de2b326d7633ac2"
+  },
+  "labs/2025_PSP/软件设计/lab1/lab1_1.c": {
+    "size": 374,
+    "time": 1751967622,
+    "hash": "8acf2679b7668b368f43b2900de2b326d7633ac2"
+  },
+  "labs/2025_PSP/软件设计/lab1/lab1_2.c": {
+    "size": 1403,
+    "time": 1751967622,
+    "hash": "8acf2679b7668b368f43b2900de2b326d7633ac2"
+  },
+  "labs/2025_PSP/软件设计/lab2/lab_2_2.c": {
+    "size": 1837,
+    "time": 1751967622,
+    "hash": "8acf2679b7668b368f43b2900de2b326d7633ac2"
+  },
+  "labs/2025_PSP/软件设计/lab2/lab_2_3.c": {
+    "size": 603,
+    "time": 1751967622,
+    "hash": "8acf2679b7668b368f43b2900de2b326d7633ac2"
+  },
+  "labs/2025_PSP/软件设计/lab3/lab_3_2.c": {
+    "size": 2585,
+    "time": 1751967622,
+    "hash": "8acf2679b7668b368f43b2900de2b326d7633ac2"
+  },
+  "labs/2025_PSP/软件设计/lab3/lab_3_3.c": {
+    "size": 2362,
+    "time": 1751967622,
+    "hash": "8acf2679b7668b368f43b2900de2b326d7633ac2"
+  },
+  "materials/.gitkeep": {
+    "size": 0,
+    "time": 1739514703,
+    "hash": "7ba455cfa7456318d14cd35edf00f7aad9989ee1"
+  },
+  "materials/2024夏实验指导书/2025夏实验4实验代码": {
+    "size": 7090,
+    "time": 1751967660,
+    "hash": "f50a56fb0531faef32983a3dbcb2301391bb47bc"
+  },
+  "materials/2024夏实验指导书/SMT工艺/表面贴装技术工艺实验指导书-2024春.pdf": {
+    "size": 8647037,
+    "time": 1751967622,
+    "hash": "8acf2679b7668b368f43b2900de2b326d7633ac2"
+  },
+  "materials/2024夏实验指导书/SMT工艺/表面贴装技术工艺实验设备安全操作规程.pdf": {
+    "size": 6145445,
+    "time": 1751967622,
+    "hash": "8acf2679b7668b368f43b2900de2b326d7633ac2"
+  },
+  "materials/2024夏实验指导书/实验指导书-电子元器件识别与检测.pdf": {
+    "size": 1872265,
+    "time": 1739514703,
+    "hash": "7ba455cfa7456318d14cd35edf00f7aad9989ee1"
+  },
+  "materials/2024夏实验指导书/实验指导书-电子封装设计.pdf": {
+    "size": 2768298,
+    "time": 1739514703,
+    "hash": "7ba455cfa7456318d14cd35edf00f7aad9989ee1"
+  },
+  "materials/2024夏实验指导书/焊接调试/小老虎温度报警器焊接调试指导书.pdf": {
+    "size": 663899,
+    "time": 1739514703,
+    "hash": "7ba455cfa7456318d14cd35edf00f7aad9989ee1"
+  },
+  "materials/2024夏实验指导书/焊接调试/焊接调试安全操作及注意事项告知书.docx": {
+    "size": 2748047,
+    "time": 1739514703,
+    "hash": "7ba455cfa7456318d14cd35edf00f7aad9989ee1"
+  },
+  "materials/2024夏实验指导书/电子可靠性/实验指导书-电子可靠性.pdf": {
+    "size": 3009376,
+    "time": 1751967622,
+    "hash": "8acf2679b7668b368f43b2900de2b326d7633ac2"
+  },
+  "materials/2024夏实验指导书/电子可靠性/电子可靠性实验现象记录页.pdf": {
+    "size": 257111,
+    "time": 1751967622,
+    "hash": "8acf2679b7668b368f43b2900de2b326d7633ac2"
+  },
+  "materials/2024夏实验指导书/软件设计/实验指导书-软件设计.pdf": {
+    "size": 4854065,
+    "time": 1739514703,
+    "hash": "7ba455cfa7456318d14cd35edf00f7aad9989ee1"
+  },
+  "materials/2024夏实验指导书/软件设计/电子工艺实习软件模块课件第一讲.pdf": {
+    "size": 15015926,
+    "time": 1739514703,
+    "hash": "7ba455cfa7456318d14cd35edf00f7aad9989ee1"
+  },
+  "materials/2024夏实验指导书/软件设计/电子工艺实习软件模块课件第三讲.pdf": {
+    "size": 5325856,
+    "time": 1739514703,
+    "hash": "7ba455cfa7456318d14cd35edf00f7aad9989ee1"
+  },
+  "materials/2024夏实验指导书/软件设计/电子工艺实习软件模块课件第二讲.pdf": {
+    "size": 8255466,
+    "time": 1739514703,
+    "hash": "7ba455cfa7456318d14cd35edf00f7aad9989ee1"
+  },
+  "materials/2024夏实验指导书/软件设计/电子工艺实习软件模块课件第五讲.pdf": {
+    "size": 3014932,
+    "time": 1739514703,
+    "hash": "7ba455cfa7456318d14cd35edf00f7aad9989ee1"
+  },
+  "materials/2024夏实验指导书/软件设计/电子工艺实习软件模块课件第四讲.pdf": {
+    "size": 7012332,
+    "time": 1739514703,
+    "hash": "7ba455cfa7456318d14cd35edf00f7aad9989ee1"
+  },
+  "materials/2024夏实验指导书/软件设计/课堂演示实验参考代码/时钟设置接口函数代码.txt": {
+    "size": 774,
+    "time": 1739514703,
+    "hash": "7ba455cfa7456318d14cd35edf00f7aad9989ee1"
+  },
+  "materials/2024夏实验指导书/软件设计/课堂演示实验参考代码/演示实验1.1.txt": {
+    "size": 304,
+    "time": 1739514703,
+    "hash": "7ba455cfa7456318d14cd35edf00f7aad9989ee1"
+  },
+  "materials/2024夏实验指导书/软件设计/课堂演示实验参考代码/演示实验1.2.txt": {
+    "size": 587,
+    "time": 1739514703,
+    "hash": "7ba455cfa7456318d14cd35edf00f7aad9989ee1"
+  },
+  "materials/2024夏实验指导书/软件设计/课堂演示实验参考代码/演示实验1.3.txt": {
+    "size": 751,
+    "time": 1739514703,
+    "hash": "7ba455cfa7456318d14cd35edf00f7aad9989ee1"
+  },
+  "materials/2024夏实验指导书/软件设计/课堂演示实验参考代码/演示实验2.1.txt": {
+    "size": 330,
+    "time": 1739514703,
+    "hash": "7ba455cfa7456318d14cd35edf00f7aad9989ee1"
+  },
+  "materials/2024夏实验指导书/软件设计/课堂演示实验参考代码/演示实验2.2.txt": {
+    "size": 1931,
+    "time": 1739514703,
+    "hash": "7ba455cfa7456318d14cd35edf00f7aad9989ee1"
+  },
+  "materials/2024夏实验指导书/软件设计/课堂演示实验参考代码/演示实验2.3.txt": {
+    "size": 526,
+    "time": 1739514703,
+    "hash": "7ba455cfa7456318d14cd35edf00f7aad9989ee1"
+  },
+  "materials/2024夏实验指导书/软件设计/课堂演示实验参考代码/演示实验3.1.txt": {
+    "size": 2311,
+    "time": 1739514703,
+    "hash": "7ba455cfa7456318d14cd35edf00f7aad9989ee1"
+  },
+  "materials/2024夏实验指导书/软件设计/课堂演示实验参考代码/演示实验4.1.txt": {
+    "size": 3747,
+    "time": 1739514703,
+    "hash": "7ba455cfa7456318d14cd35edf00f7aad9989ee1"
+  },
+  "materials/2024夏实验指导书/项目制作要求.pdf": {
+    "size": 1545537,
+    "time": 1739514703,
+    "hash": "7ba455cfa7456318d14cd35edf00f7aad9989ee1"
+  },
+  "materials/MSP430手册+原理图/1.MSP430中文手册(网络下载资源仅供参考-MSP430F16XX系列).pdf": {
+    "size": 25322684,
+    "time": 1739514703,
+    "hash": "7ba455cfa7456318d14cd35edf00f7aad9989ee1"
+  },
+  "materials/MSP430手册+原理图/2.芯片用户手册（英文教材）-MSP430x5xx and MSP430x6xx Family User Guide.pdf": {
+    "size": 6808616,
+    "time": 1739514703,
+    "hash": "7ba455cfa7456318d14cd35edf00f7aad9989ee1"
+  },
+  "materials/MSP430手册+原理图/3.库函数用户手册-MSP430F5xx_6xx_DriverLib_Users_Guide.pdf": {
+    "size": 3921258,
+    "time": 1739514703,
+    "hash": "7ba455cfa7456318d14cd35edf00f7aad9989ee1"
+  },
+  "materials/MSP430手册+原理图/4.主板原理接线图-MSP-EXP430F5529LP_Schematic.pdf": {
+    "size": 219221,
+    "time": 1739514703,
+    "hash": "7ba455cfa7456318d14cd35edf00f7aad9989ee1"
+  },
+  "materials/MSP430手册+原理图/5.口袋板接线原理图-MSP430F5529_Pocket_Lab_Schematic.PDF": {
+    "size": 342414,
+    "time": 1739514703,
+    "hash": "7ba455cfa7456318d14cd35edf00f7aad9989ee1"
+  },
+  "materials/MSP430手册+原理图/6.MSP430F5529 LaunchPad™ 开发板用户手册.pdf": {
+    "size": 3093923,
+    "time": 1739514703,
+    "hash": "7ba455cfa7456318d14cd35edf00f7aad9989ee1"
+  },
+  "materials/MSP430手册+原理图/7.数据手册msp430f5529-datasheet.pdf": {
+    "size": 2439960,
+    "time": 1739514703,
+    "hash": "7ba455cfa7456318d14cd35edf00f7aad9989ee1"
+  },
+  "notes/.gitkeep": {
+    "size": 0,
+    "time": 1739514703,
+    "hash": "7ba455cfa7456318d14cd35edf00f7aad9989ee1"
+  },
+  "slides/.gitkeep": {
+    "size": 0,
+    "time": 1739514703,
+    "hash": "7ba455cfa7456318d14cd35edf00f7aad9989ee1"
+  },
+  "tag.txt": {
+    "size": 89,
+    "time": 1734685123,
+    "hash": "38b70a3251335653f2901c00390cf789592c5c2f"
+  }
+}
