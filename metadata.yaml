@@ -1,0 +1,402 @@
+ID: "ENGG1003"
+SimilarID: []
+Name: "工程训练（电子工艺实习）"
+CourseProperty:
+  - Major:
+      - Year: "2019_2020"
+        Name: [ "计算机", "机械", "自动化", "电气", "通信", "材料" ]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大二"
+        Semester: "秋"
+    CourseType: "必修"
+    CourseID: "ENGG1003"
+    CourseName: "工程训练（电子工艺实习）"
+    Credit: "1.0"
+    CourseHour: "80.0"
+    GPAInfluence: "核心权重"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "元器件识别"
+        Percentage: 7
+      - Name: "电子封装"
+        Percentage: 7
+      - Name: "电子可靠性"
+        Percentage: 5
+      - Name: "硬件设计"
+        Percentage: 11
+      - Name: "PCB设计"
+        Percentage: 11
+      - Name: "软件设计"
+        Percentage: 18
+      - Name: "焊接调试"
+        Percentage: 11
+      - Name: "项目制作"
+        Percentage: 30
+    CourseHourComposition:
+      - Name: "绪论"
+        Hour: 6
+      - Name: "元器件识别"
+        Hour: 4
+      - Name: "电子封装"
+        Hour: 4
+      - Name: "电子可靠性"
+        Hour: 4
+      - Name: "硬件设计"
+        Hour: 8
+      - Name: "PCB设计"
+        Hour: 8
+      - Name: "焊接调试"
+        Hour: 8
+      - Name: "软件设计"
+        Hour: 20
+      - Name: "项目制作"
+        Hour: 14
+      - Name: "项目发布"
+        Hour: 4
+
+  - Major:
+      - Year: "2020_2021"
+        Name: [ "机械", "电气", "自动化", "材料", "通信" ]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大一"
+        Semester: "春"
+    CourseType: "必修"
+    CourseID: "ENGG1003"
+    CourseName: "工程训练（电子工艺实习）"
+    Credit: "1.0"
+    CourseHour: "80.0"
+    GPAInfluence: "核心权重"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "元器件识别"
+        Percentage: 7
+      - Name: "电子封装"
+        Percentage: 7
+      - Name: "电子可靠性"
+        Percentage: 5
+      - Name: "硬件设计"
+        Percentage: 11
+      - Name: "PCB设计"
+        Percentage: 11
+      - Name: "软件设计"
+        Percentage: 18
+      - Name: "焊接调试"
+        Percentage: 11
+      - Name: "项目制作"
+        Percentage: 30
+    CourseHourComposition:
+      - Name: "绪论"
+        Hour: 6
+      - Name: "元器件识别"
+        Hour: 4
+      - Name: "电子封装"
+        Hour: 4
+      - Name: "电子可靠性"
+        Hour: 4
+      - Name: "硬件设计"
+        Hour: 8
+      - Name: "PCB设计"
+        Hour: 8
+      - Name: "焊接调试"
+        Hour: 8
+      - Name: "软件设计"
+        Hour: 20
+      - Name: "项目制作"
+        Hour: 14
+      - Name: "项目发布"
+        Hour: 4
+
+  - Major:
+      - Year: "2021_2022"
+        Name: [ "自动化", "电气", "机械", "通信", "光电", "材料" ]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大二"
+        Semester: "春"
+    CourseType: "必修"
+    CourseID: "ENGG1003"
+    CourseName: "工程训练（电子工艺实习）"
+    Credit: "1.0"
+    CourseHour: "80.0"
+    GPAInfluence: "核心权重"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "元器件识别"
+        Percentage: 7
+      - Name: "电子封装"
+        Percentage: 7
+      - Name: "电子可靠性"
+        Percentage: 5
+      - Name: "硬件设计"
+        Percentage: 11
+      - Name: "PCB设计"
+        Percentage: 11
+      - Name: "软件设计"
+        Percentage: 18
+      - Name: "焊接调试"
+        Percentage: 11
+      - Name: "项目制作"
+        Percentage: 30
+    CourseHourComposition:
+      - Name: "绪论"
+        Hour: 6
+      - Name: "元器件识别"
+        Hour: 4
+      - Name: "电子封装"
+        Hour: 4
+      - Name: "电子可靠性"
+        Hour: 4
+      - Name: "硬件设计"
+        Hour: 8
+      - Name: "PCB设计"
+        Hour: 8
+      - Name: "焊接调试"
+        Hour: 8
+      - Name: "软件设计"
+        Hour: 20
+      - Name: "项目制作"
+        Hour: 14
+      - Name: "项目发布"
+        Hour: 4
+
+  - Major:
+      - Year: "2022_2023"
+        Name: [ "能源", "机械", "电气", "自动化", "通信", "光电", "材料" ]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大二"
+        Semester: "春"
+    CourseType: "必修"
+    CourseID: "ENGG1003"
+    CourseName: "工程训练（电子工艺实习）"
+    Credit: "1.0"
+    CourseHour: "80.0"
+    GPAInfluence: "核心权重"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "元器件识别"
+        Percentage: 7
+      - Name: "电子封装"
+        Percentage: 7
+      - Name: "电子可靠性"
+        Percentage: 5
+      - Name: "硬件设计"
+        Percentage: 11
+      - Name: "PCB设计"
+        Percentage: 11
+      - Name: "软件设计"
+        Percentage: 18
+      - Name: "焊接调试"
+        Percentage: 11
+      - Name: "项目制作"
+        Percentage: 30
+    CourseHourComposition:
+      - Name: "绪论"
+        Hour: 6
+      - Name: "元器件识别"
+        Hour: 4
+      - Name: "电子封装"
+        Hour: 4
+      - Name: "电子可靠性"
+        Hour: 4
+      - Name: "硬件设计"
+        Hour: 8
+      - Name: "PCB设计"
+        Hour: 8
+      - Name: "焊接调试"
+        Hour: 8
+      - Name: "软件设计"
+        Hour: 20
+      - Name: "项目制作"
+        Hour: 14
+      - Name: "项目发布"
+        Hour: 4
+
+  - Major:
+      - Year: "2023_2024"
+        Name: [ "自动化", "能源", "电气", "通信", "光电", "材料", "工科试验班（自动化与电气工程）" ]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大二"
+        Semester: "春"
+    CourseType: "必修"
+    CourseID: "ENGG1003"
+    CourseName: "工程训练（电子工艺实习）"
+    Credit: "1.0"
+    CourseHour: "80.0"
+    GPAInfluence: "核心权重"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "元器件识别"
+        Percentage: 7
+      - Name: "电子封装"
+        Percentage: 7
+      - Name: "电子可靠性"
+        Percentage: 5
+      - Name: "硬件设计"
+        Percentage: 11
+      - Name: "PCB设计"
+        Percentage: 11
+      - Name: "软件设计"
+        Percentage: 18
+      - Name: "焊接调试"
+        Percentage: 11
+      - Name: "项目制作"
+        Percentage: 30
+    CourseHourComposition:
+      - Name: "绪论"
+        Hour: 6
+      - Name: "元器件识别"
+        Hour: 4
+      - Name: "电子封装"
+        Hour: 4
+      - Name: "电子可靠性"
+        Hour: 4
+      - Name: "硬件设计"
+        Hour: 8
+      - Name: "PCB设计"
+        Hour: 8
+      - Name: "焊接调试"
+        Hour: 8
+      - Name: "软件设计"
+        Hour: 20
+      - Name: "项目制作"
+        Hour: 14
+      - Name: "项目发布"
+        Hour: 4
+
+  - Major:
+      - Year: "2024_2025"
+        Name: [ "自动化", "人工智能班", "电气工程及其自动化" ]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大二"
+        Semester: "春"
+    CourseType: "必修"
+    CourseID: "ENGG1003"
+    CourseName: "工程训练（电子工艺实习）"
+    Credit: "1.0"
+    CourseHour: "80.0"
+    GPAInfluence: "核心权重"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "元器件识别"
+        Percentage: 7
+      - Name: "电子封装"
+        Percentage: 7
+      - Name: "电子可靠性"
+        Percentage: 5
+      - Name: "硬件设计"
+        Percentage: 11
+      - Name: "PCB设计"
+        Percentage: 11
+      - Name: "软件设计"
+        Percentage: 18
+      - Name: "焊接调试"
+        Percentage: 11
+      - Name: "项目制作"
+        Percentage: 30
+    CourseHourComposition:
+      - Name: "绪论"
+        Hour: 6
+      - Name: "元器件识别"
+        Hour: 4
+      - Name: "电子封装"
+        Hour: 4
+      - Name: "电子可靠性"
+        Hour: 4
+      - Name: "硬件设计"
+        Hour: 8
+      - Name: "PCB设计"
+        Hour: 8
+      - Name: "焊接调试"
+        Hour: 8
+      - Name: "软件设计"
+        Hour: 20
+      - Name: "项目制作"
+        Hour: 14
+      - Name: "项目发布"
+        Hour: 4
+
+  - Major:
+      - Year: "2025_2026"
+        Name: [ "计算机", "材料", "光电", "数学", "通信" ]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大三"
+        Semester: "秋"
+    CourseType: "必修"
+    CourseID: "ENGG1003"
+    CourseName: "工程训练（电子工艺实习）"
+    Credit: "1.0"
+    CourseHour: "80.0"
+    GPAInfluence: "核心权重"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "元器件识别"
+        Percentage: 7
+      - Name: "电子封装"
+        Percentage: 7
+      - Name: "电子可靠性"
+        Percentage: 5
+      - Name: "硬件设计"
+        Percentage: 11
+      - Name: "PCB设计"
+        Percentage: 11
+      - Name: "软件设计"
+        Percentage: 18
+      - Name: "焊接调试"
+        Percentage: 11
+      - Name: "项目制作"
+        Percentage: 30
+    CourseHourComposition:
+      - Name: "绪论"
+        Hour: 6
+      - Name: "元器件识别"
+        Hour: 4
+      - Name: "电子封装"
+        Hour: 4
+      - Name: "电子可靠性"
+        Hour: 4
+      - Name: "硬件设计"
+        Hour: 8
+      - Name: "PCB设计"
+        Hour: 8
+      - Name: "焊接调试"
+        Hour: 8
+      - Name: "软件设计"
+        Hour: 20
+      - Name: "项目制作"
+        Hour: 14
+      - Name: "项目发布"
+        Hour: 4
