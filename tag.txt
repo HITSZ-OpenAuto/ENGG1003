@@ -1,3 +1,3 @@
 category: 必修
-semester: 第一学年夏季
+semester: 第一学年夏季 / 第二学年春季
 name: 工程训练（电子工艺实习）
