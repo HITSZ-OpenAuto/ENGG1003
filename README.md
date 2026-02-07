@@ -1,32 +1,23 @@
 # ENGG1003 - 工程训练（电子工艺实习）
 
-<!--
-1. 通过 [Shields.io](https://shields.io/) 生成如下的徽章，标注课程的基本信息。
-2. 请根据课程的具体内容增删仓库的子文件夹。子文件夹建议使用小写英文，并且添加 README.md。
-3. 关于课程的描述可以不止以下几个方面，酌情增删。
-4. hoa.moe 生成本课程对应页面后，请将页面链接复制到 GitHub 仓库的 About/Website 中。
-5. 可以在 GitHub 页面的 About/Topics 中为课程添加话题名称。
--->
+![成绩构成](https://img.shields.io/badge/成绩构成-gold)
+![实验 100% (具体细分参考年份配置)](https://img.shields.io/badge/实验%20100%25%20(具体细分参考年份配置)--wheat)
 
-![考查课](https://img.shields.io/badge/%E8%80%83%E6%9F%A5%E8%AF%BE-green)
-![学分](https://img.shields.io/badge/%E5%AD%A6%E5%88%86-1-moccasin)
-![实验](https://img.shields.io/badge/%E5%AE%9E%E9%AA%8C-purple)
-
-![成绩构成(23级)](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90（23级）-gold)
-![实验100%](https://img.shields.io/badge/%E5%AE%9E%E9%AA%8C-100%25-wheat)
-
-![元器件识别7%](https://img.shields.io/badge/元器件识别-7%25-wheat)
-![电子封装7%](https://img.shields.io/badge/电子封装-7%25-wheat)
-![电子可靠性5%](https://img.shields.io/badge/电子可靠性-5%25-wheat)
-![硬件设计11%](https://img.shields.io/badge/硬件设计-11%25-wheat)
-![PCB设计11%](https://img.shields.io/badge/PCB设计-11%25-wheat)
-![软件设计18%](https://img.shields.io/badge/软件设计-18%25-wheat)
-![焊接调试11%](https://img.shields.io/badge/焊接调试-11%25-wheat)
-![项目制作30%](https://img.shields.io/badge/项目制作-30%25-wheat)
+该门课的预习和实验报告都在中国大学 MOOC 上的《电子工艺实习》慕课中提交。
+23 级自动化与电气工程集群的电子工艺实习安排在 2024 年夏季学期，为两周集中完成。
 
 ## 授课教师
 
-本门课由创新实践中心的所有电类实验老师一起上课，你会遇到几乎所有的电类老师，其中许多老师也带电赛，想打电赛的可以和他们联系。
+- 创新实践中心电类实验老师(集体)
+  - 本门课由创新实践中心的所有电类实验老师一起上课，你会遇到几乎所有的电类老师。
+    其中许多老师也带电赛，想打电赛的可以和他们联系。
+
+    > 文 / [Gaster](https://github.com/WDGaster703/)，2025-01
+
+## 在线资源
+
+- [中国大学 MOOC《电子工艺实习》](https://www.icourse163.org/)：预习和实验报告提交平台（需自行搜索具体课程）
+- [南工骁鹰嵌入式培训教程](https://hoa.moe/docs/junior-autumn/auto3024/)：STM32 系列开发参考资料，适合学有余力的同学
 
 ## 学时安排及实验内容
 
@@ -87,7 +78,7 @@
 
 {{% /details %}}
 
-文/[Gaster](https://github.com/WDGaster703/),2025.1
+> 文 / [Gaster](https://github.com/WDGaster703/)，2025-01
 
 ## 学习建议
 
