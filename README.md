@@ -1,4 +1,6 @@
 # ENGG1003 - 工程训练（电子工艺实习）
+<!-- TOML-META: repo_type="normal" -->
+<!-- TOML-BADGES: source="grades_summary" -->
 
 ![成绩构成](https://img.shields.io/badge/成绩构成-gold)
 ![实验 100% (具体细分参考年份配置)](https://img.shields.io/badge/实验%20100%25%20(具体细分参考年份配置)--wheat)
@@ -9,17 +11,23 @@
 ## 授课教师
 
 - 创新实践中心电类实验老师(集体)
+  <!-- TOML-ITEM: id="review-创新实践中心电类实验老师(集体)-1" -->
   - 本门课由创新实践中心的所有电类实验老师一起上课，你会遇到几乎所有的电类老师。
-    其中许多老师也带电赛，想打电赛的可以和他们联系。
-
+  - 其中许多老师也带电赛，想打电赛的可以和他们联系。
     > 文 / [Gaster](https://github.com/WDGaster703/)，2025-01
 
 ## 在线资源
+<!-- TOML-SECTION: title="在线资源" -->
+
+<!-- TOML-ITEM: id="item-在线资源-1" -->
 
 - [中国大学 MOOC《电子工艺实习》](https://www.icourse163.org/)：预习和实验报告提交平台（需自行搜索具体课程）
 - [南工骁鹰嵌入式培训教程](https://hoa.moe/docs/junior-autumn/auto3024/)：STM32 系列开发参考资料，适合学有余力的同学
 
 ## 学时安排及实验内容
+<!-- TOML-SECTION: title="学时安排及实验内容" -->
+
+<!-- TOML-ITEM: id="item-学时安排及实验内容-1" -->
 
 该门课的预习和实验报告都在中国大学 MOOC 上的《电子工艺实习》慕课中提交。<br>
 
@@ -81,5 +89,8 @@
 > 文 / [Gaster](https://github.com/WDGaster703/)，2025-01
 
 ## 学习建议
+<!-- TOML-SECTION: title="学习建议" -->
+
+<!-- TOML-ITEM: id="item-学习建议-1" -->
 
 虽然电子工艺实习的项目很简单，但是对于完全没有嵌入式开发和硬件设计基础的人来说，要自己独立完成一个实验并不容易。只是想过的建议找有嵌入式设计或硬件设计基础的人组队，这样任务完成会更轻松。如果想自己学习有关的更多内容，也不要局限于 MSP430F5529 ，这种二十几年前的老旧板子的性能终究是不太够的，学有余力可以去学 STM32 系列开发，参考大三上的限选课[嵌入式设计](https://hoa.moe/docs/junior-autumn/auto3024/)中的南工骁鹰的相关培训教程。
