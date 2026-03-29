@@ -89,9 +89,7 @@
 
 > 文 / [Gaster](https://github.com/WDGaster703/)，2025-01
 
-以下是2026春开课新加的课程。
-
-{{% details title="24级（2026春）学时安排和上课内容" closed="true" %}}
+{{% details title="24级（2026春）新加课程内容" closed="true" %}}
 
 - 通信数字信号处理入门（4学时）
   - 了解模数转换基本过程和基本入门知识。
