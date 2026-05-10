@@ -1,24 +1,25 @@
 course_name = "工程训练（电子工艺实习）"
 course_code = "ENGG1003"
 repo_type = "normal"
-description = """
 
-"""
+[lecturers]
 
-[[sections]]
-title = "授课教师"
+[[lecturers.items]]
+name = "元器件识别：李文立，杨轶"
 
-[[sections.items]]
-content = """
-本门课由实验与创新实践教育中心-电气电子实验教学部的实验老师负责。老师也负责电赛和电气电子相关竞赛的指导，想打相关竞赛的可以和他们联系。
+[[lecturers.items]]
+name = "硬件和 PCB 设计：吴屏，王丹丹，李苑青，赖博轩，姜倩倩"
 
-必修模块部分老师分配如下：
-- 元器件识别：李文立，杨轶
-- 硬件和 PCB 设计：吴屏，王丹丹，李苑青，赖博轩，姜倩倩
-- 焊接调试：姜倩倩，谷宇，高菲，孙亚飞，程鹏，吴屏
-- 软件设计：杨静，朱雪秦，高国栋，张钦宇，胡秋琦，王亚男
-- 电子可靠性：肖涵
-"""
+[[lecturers.items]]
+name = "焊接调试：姜倩倩，谷宇，高菲，孙亚飞，程鹏，吴屏"
+
+[[lecturers.items]]
+name = "软件设计：杨静，朱雪秦，高国栋，张钦宇，胡秋琦，王亚男"
+
+[[lecturers.items]]
+name = "电子可靠性：肖涵"
+
+[[lecturers.items.reviews]]
 author = { name = "Gaster", link = "https://github.com/WDGaster703/", date = "2026-03" }
 
 [[sections]]
