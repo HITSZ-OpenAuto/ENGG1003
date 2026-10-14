@@ -1,9 +1,5 @@
 # ENGG1003 - 工程训练（电子工艺实习）
 <!-- TOML-META: repo_type="normal" -->
-<!-- TOML-BADGES: source="grades_summary" -->
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![实验 100% (具体细分参考年份配置)](https://img.shields.io/badge/实验%20100%25%20(具体细分参考年份配置)--wheat)
 
 ## 授课教师
 
